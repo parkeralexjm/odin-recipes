@@ -1,0 +1,28 @@
+.recipe {
+    color: navy;
+}
+
+#bread {
+    background-color: blueviolet;
+    font-weight: bold;
+}
+
+#sushi {
+    background-color: bisque;
+    font-weight: bolder;
+}
+
+#burger {
+    background-color: violet;
+    font-weight: lighter;
+}
+
+.title {
+    color: maroon;
+    background-color: aqua;
+
+}
+
+.background {
+    background-color: wheat;
+}
